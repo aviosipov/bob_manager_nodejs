@@ -1,0 +1,16 @@
+{
+  "name": "bob_manager_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "mqtt": "^2.9.0",
+    "pouchdb": "^6.2.0"
+  }
+}
